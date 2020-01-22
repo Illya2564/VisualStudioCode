@@ -1,5 +1,0 @@
-class Ampfetamine(Products):
-    def __init__(self, sulfat, fosfat ):
-        self.sulfat = sulfat
-        self.fosfst = fosfat
-    
